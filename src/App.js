@@ -4,7 +4,7 @@ import Nav from './components/Nav';
 import About from './components/About';
 import ContactForm from './components/Contact'
 import PortfolioList from './components/Portfolio';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
